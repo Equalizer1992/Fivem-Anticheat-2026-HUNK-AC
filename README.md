@@ -6,25 +6,26 @@ HUNK-AC is an advanced FiveM AntiCheat featuring:
 
 - Anti Phaze Menu
 
-🛡️ Anti Susano
+- Anti Susano
 
-🛡️ Anti Vortex Menu
+- Anti Vortex Menu
 
-🛡️ Anti Pulse Menu
+- Anti Pulse Menu
 
-🛡️ Anti Lumia Menu
+- Anti Lumia Menu
 
-🛡️ Anti Keyser
+- Anti Keyser
 
-🛡️ Anti TZ Project
+- Anti TZ Project
 
-🛡️ Anti Hx Softwares
+- Anti Hx Softwares
 
-🛡️ Anti Skript.gg
+- Anti Skript.gg
 
-🛡️ And Others
+- And Others
 
-<br>
+___
+
 ---
 
 Compatible with:
