@@ -27,18 +27,28 @@ HUNK-AC is an advanced FiveM AntiCheat featuring:
 Compatible with:
 
 ✅ ESX
+
 ✅ QbCore
+
 ✅ Qbox
+
 ✅ Standalone
+
 
 Showcase:
 
 🎥 Susano Detection: https://www.youtube.com/watch?v=5AXFp4KS9FA
+
 🎥 Phaze Menu Detection: https://www.youtube.com/watch?v=QcsR0oCgFig
+
 🎥 Keyser Detection: https://www.youtube.com/watch?v=mp4m5Zgo4Zc
+
 🎥 TZ Project Detection: https://www.youtube.com/watch?v=Jrvo1mtI310
+
 🎥 Lumia Menu Detection: https://www.youtube.com/watch?v=9X_--i_Ovds
+
 🎥 Pulse Menu Detection: https://www.youtube.com/watch?v=-TkKbO1Z_-g
+
 
 🛒 Purchase:
 https://unique-store.tebex.io/package/5234567
