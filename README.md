@@ -1,10 +1,10 @@
 HUNK-AC is an advanced FiveM AntiCheat featuring:
 
-🛡️ Anti Eulen
+- Anti Eulen
 
-🛡️ Anti RedEngine
+- Anti RedEngine
 
-🛡️ Anti Phaze Menu
+- Anti Phaze Menu
 
 🛡️ Anti Susano
 
@@ -25,6 +25,7 @@ HUNK-AC is an advanced FiveM AntiCheat featuring:
 🛡️ And Others
 
 <br>
+---
 
 Compatible with:
 
