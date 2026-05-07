@@ -36,8 +36,7 @@ Compatible with:
 
 ✅ Standalone
 
-
-
+<br>
 
 Showcase:
 
@@ -53,8 +52,7 @@ Showcase:
 
 🎥 Pulse Menu Detection: https://www.youtube.com/watch?v=-TkKbO1Z_-g
 
-
-
+<br>
 
 🛒 Purchase:
 https://unique-store.tebex.io/package/5234567
