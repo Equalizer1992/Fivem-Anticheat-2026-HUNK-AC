@@ -25,6 +25,7 @@ HUNK-AC is an advanced FiveM AntiCheat featuring:
 🛡️ And Others
 
 
+
 Compatible with:
 
 ✅ ESX
@@ -34,6 +35,7 @@ Compatible with:
 ✅ Qbox
 
 ✅ Standalone
+
 
 
 
@@ -50,6 +52,7 @@ Showcase:
 🎥 Lumia Menu Detection: https://www.youtube.com/watch?v=9X_--i_Ovds
 
 🎥 Pulse Menu Detection: https://www.youtube.com/watch?v=-TkKbO1Z_-g
+
 
 
 
